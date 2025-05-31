@@ -1,0 +1,16 @@
+{
+    "name": "portal-da-claridade",
+    "version": "1.0.0",
+    "description": "Programa místico de clareza mental para o período de Mercúrio Cazimi",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server"
+    },
+    "author": "Mello + Laranja Espiritual",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "live-server": "^1.2.0"
+    },
+    "keywords": [],
+    "type": "commonjs"
+}
