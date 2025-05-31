@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+@import './index.css';
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
